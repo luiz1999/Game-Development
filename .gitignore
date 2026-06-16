@@ -1,0 +1,30 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Visual Studio
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Outros
+Packages/manifest.json
+Packages/packages-lock.json
